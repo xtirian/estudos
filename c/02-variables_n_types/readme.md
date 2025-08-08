@@ -62,7 +62,7 @@ Specifier charecter at the end is the most important item, since it defines the 
 
 ### flags
 |Flags|Description|
-|-----|-----------|
+|:---:|-----------|
 |-|Left-justify within the fiven field width; right justification is the default (you'll see it in width sub-specifier)|
 |+|Forces to preceed the result with a plus or minus sign (+ or -) even for positive numbers. By default, only negative numbers are preceded with a - signal.|
 |**(space)**|If no sign is going to be written, a blank space is inserted before the value. It's mostly used for column alignment or outputs where you want signs to line up vertically.|
@@ -70,18 +70,18 @@ Specifier charecter at the end is the most important item, since it defines the 
 |0|Left-pads the number with zeroes (0) instead of spaces when padding is specified. No padding: 42; with 5 width and 0 flag: 00042|
 
 |Width|Description|
-|-----|-----------|
+|:---:|-----------|
 |(number)|Minimum number of characters to be printed. If the value to be printed is shorter than this number, the result is padded with blank spaces.|
 |*|The width is not specified in the format string, but as an additional integer value argument preceding the argiment that has to be formatted. `printf("%*d",3,42)` **or** `printf("%3d",42)` // the width is 3 in both cases|
 
 |.Precision|Description|
-|----------|-----------|
+|:--------:|-----------|
 |.number|For integers specifiers, precision specifies the minimum number of digitis to be written. If the value to be written is shorter than this number, the result iss padded with leading zeros. For floating and scientific specifiers, this is the number of digits  to be printed after the decimal point (by defautl this is 6). For string specifier, this is the maximum number of characters to be printed|  
 |*|Same as width|
 
 The length flag modifies the length of the data type. the best  way to represent this is by a chat, because the length modificator are interpreted different between diferent flags.
 |length|d  i|u  o  x  X|f  F  e  E  g  G  a  A|c|s|p|n|
-|------|----|----------|----------------------|-|-|-|-|
+|:----:|----|----------|----------------------|-|-|-|-|
 |(none)|int|unsigned int|double|int|char*|void*|int*|
 |h|short int|unsigned short int|-|-|-|-|short int*|
 |l|long int|unsigned long int|-|wint_t|wchar_t*|-|long int*|
