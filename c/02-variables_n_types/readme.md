@@ -41,6 +41,7 @@ a = b - 1 + d * e;
 printf("%d", a);
 ```
 
+## This should be a note, but got too big:
 * **Note**: the argument inside `printf` starts with a "%d" and then the variable that carries the value.
 
 This notation is called Format String (_or something like that_), and is used to specify the way that the data is printed.
