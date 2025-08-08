@@ -50,7 +50,7 @@ This kind of notation has parameters to use it with assertion, and his form is: 
 ### Specifier
 Specifier charecter at the end is the most important item, since it defines the type and the interpretation of its argument. The specifiers I think I should use more are:
 |Specifiers|Output|Example|
-|----------|------|-------|
+|:--------:|------|-------|
 |d **or** i|Signed decimal integer|391 or -392 |
 |f|Decimal floating point, lowercase| 7.52, 3.141516 |
 |e|Scientific notation (mantissa/expoent), lowercase|3.9265e+2|
