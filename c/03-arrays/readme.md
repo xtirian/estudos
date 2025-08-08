@@ -1,5 +1,4 @@
 # Arrays
----
 Arays are a special kind of variables which can hold more than one value under the same variable name, organised with an index. Arrays are defined using a very straightfoward syntax:
 ```c
 /* defines an array of 10 integers */
