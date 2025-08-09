@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "6e59652a57093096",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eda27b2e4388a10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d9283af76841b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes/Produção do Conhecimento Científico e Tecnologias Emergentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Produção do Conhecimento Científico e Tecnologias Emergentes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5af6fc02c5b8c1c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94baa5839af3a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e473017cd66d279d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "52f0c9ac5470a10d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "79fd61a90808d046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "149586259c42b0ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0b25e850249b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1fb9d136a015a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes/Produção do Conhecimento Científico e Tecnologias Emergentes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Produção do Conhecimento Científico e Tecnologias Emergentes"
+            }
+          },
+          {
+            "id": "ec2f3ce4ed44d347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes/Produção do Conhecimento Científico e Tecnologias Emergentes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Produção do Conhecimento Científico e Tecnologias Emergentes"
+            }
+          },
+          {
+            "id": "ecfcdeb4babc5b87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58122281866f0150",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes/Produção do Conhecimento Científico e Tecnologias Emergentes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Produção do Conhecimento Científico e Tecnologias Emergentes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4d9283af76841b34",
+  "lastOpenFiles": [
+    "Semestre 1/Extras/Esquema do desenvolvimento cognitivo.canvas",
+    "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes/Produção do Conhecimento Científico e Tecnologias Emergentes.md",
+    "Semestre 1/Extras",
+    "Bem-vindo.md",
+    "2025-08-09.md",
+    "Semestre 1/Produção do Conhecimento Científico e Tecnologias Emergentes",
+    "Semestre 1"
+  ]
+}

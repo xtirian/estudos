@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"457cfee7e91de026","x":-240,"y":-140,"width":160,"height":60,"type":"text","text":"Desequilíbrio"},
+		{"id":"86613be47bd7ac84","x":0,"y":-140,"width":160,"height":60,"type":"text","text":"Assimilação"},
+		{"id":"66ad52c5838c5ef0","x":0,"y":0,"width":160,"height":60,"type":"text","text":"Equilíbrio"},
+		{"id":"4390126326ab3882","x":-240,"y":0,"width":160,"height":60,"type":"text","text":"Conflito"}
+	],
+	"edges":[
+		{"id":"376a02079ae81f79","fromNode":"457cfee7e91de026","fromSide":"right","toNode":"86613be47bd7ac84","toSide":"left"},
+		{"id":"544354890f168460","fromNode":"86613be47bd7ac84","fromSide":"right","toNode":"66ad52c5838c5ef0","toSide":"right"},
+		{"id":"a691bccc454e2d34","fromNode":"66ad52c5838c5ef0","fromSide":"left","toNode":"4390126326ab3882","toSide":"right"},
+		{"id":"1b6a802ad34b42c1","fromNode":"4390126326ab3882","fromSide":"left","toNode":"457cfee7e91de026","toSide":"left"}
+	]
+}
