@@ -1,4 +1,4 @@
-
+# Produção do Conhecimento Científico e Tecnologias Emergentes
 ## Aportes teóricos clássicos para compreender a aprendizagem:
 ### Behaviorismo
 Para **Skinner**, o humano é produto do processo de aprendizagem vivido ao longo de sua vida, ele assimila e responde ao que experienciou no decorrer da sua história. A aprendizagem seria então um tipo de resposta a algo que afeta a pessoa, seja positiva ou negativamente.
@@ -78,3 +78,17 @@ O texto ressalta que a tecnologia não é neutra: ela serve a interesses humanos
 
 ### Tecnologias sociais
 São aquelas voltadas para a solução de problemas sociais, como cisternas de baixo custo, inclusão digital ou programas de alienação. Muitas vezes não envolvem alta tencologia.
+
+
+## Saindo da bolha: Como a ciência e a tecnologia nos afetam?
+
+### Organização social e os rumos da ciência e da tecnologia
+A relação entre ciência, tecnologia e sociedade sempre foi moldada pela organização social de cada época. Na Antiguidade e na Idade Média, o conhecimento, muitas vezes baseado em filosofia e religião, era privilégio de elites e voltado mais para a compreensão abstrata do mundo do que para usos práticos. O trabalho manual e a aplicação técnica ficavam restritos às classes mais baixas, e a separação entre teoria e prática limitava o avanõ tecnológico. Com o Renascimento e, depois a idade Moderna, essa visão começou a mudar. O fortalecimento da burguesia e o surgimento do método científico - defendido por pensadores como Francis Bacon e Galileu Galilei - Abriram caminho para a ciência fosse aplicada à transformação da natureza e ao aumento da produção. Esse processo culminou na Primeira Revolução Industrial, no século XVIII, marcada pelo usop do carvão e da máquina à vapor, e prosseguiu com a Segunda, no Século XIX, que introduziu a eletrecidade, o aço e a produção em massa. No século XX, a terceira revolução Industrial trouxe a automação e a informática, e hoje vivemos uma quarta fase, guiada pela inteligência artificial, biotecnologia e internet das coisas. Cada uma dessas etapas acelerou mudanças econômicas e sociais, mas também produziu novas desigualdades e desafios.
+
+### A quem serve o desenvolvimento da ciência e da tecnologia?
+No cenário contemporâneo, o desenvolvimento científico e tecnológico não ocorre de forma neutra. Em um sistema capitalista, ele tende a servir aos itneresses econômicos, definindo prioridade de pesquisa de acordo com o potencial de lucro e não necessariamente com as necessidades coletivas. Isso faz com que venefícios como medicamentos inovadores, tecnologias limpas ou acesso à informação cheguem primeiro e de forma mais ampla a países desenvolvidos, enquanto regiões periféricas enfgrentam exclusão digital e dependência tecnológica. Essa lógica também provoca desemprego estrutural - como no caso da substituição de mão de obra por máquinas e softwares - e reforça disparidades entre países centrais e periféricos, criando um cenário em que a ciência pode tanto resolver problemas urgentes quanto agravar desigualdades.
+
+### Como ampliar o acesso aos benefícios gerados pela ciência e pela tecnologia?
+Para ampliar o acesso aos benefícios da ciência e da tencologia, é necessário adotar políticas de Estado que garantam investimento contínuo em pesquisa e inovação, mesmo em períodos de crise econômica. No Brasil, instituições como CNPq, FINEP e CAPES são fundamentais para financiar estudos e formar pesquisadores, mas precisam de recursos estáveis e de integração com universidades, centros de pesquisa e setor produtivo. Também é essencial incentivar projetos que priorizem demandas sociais, como saneamento básico, energias renov áveis e tecnopplogias assistivas, e promover a democratização do conhecimento por meio de educação científica e inclusão digital. Dessa forma, a ciência pode deixar de ser apenas um motor de lucro e se tornar um instrumento efetivo para reduzir a desigualdade, melhorar a qualidade de vida e  enfrentar problemas globais, como as mudanças climáticas e crises de saúde pública.
+
+
