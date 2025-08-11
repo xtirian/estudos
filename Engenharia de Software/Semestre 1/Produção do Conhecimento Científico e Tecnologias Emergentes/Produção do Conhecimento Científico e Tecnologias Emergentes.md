@@ -51,3 +51,30 @@ A estratégia de **Recordação ativa** reforça a importância de tirar os olho
 O **Fichamento** é apresentado como técnica essencial para organizar o conhecimento adquirido por meio de resumos objetivos, contendo palavras-chave, definições e citações. Essa estratégia auxilia na memorização, no aprofundamento de conteúdo e na construção de um acervo pessoa de estudo. 
 
 Ao final deste subcapítulo, o texto ressalta que a **superaprendizagem** depende da disposição para aprender e aprender. Tornar-se um superaprendiz significa buscar constantemente o aperfeiçoamento cognitivo, desenvolvendo habilidades mentais que favorecem o processamento e a retenção do conhecimento. A imagem final, que representa o crescimento dos dendritos, reforça visualmente o impacto real do aprendizado sobre o cérebro: cada nova informação fortalece e amplia as conexões neurais. A ideia central é que o cérebro está em constante transformação e pode se expandir com a prática deliberada do estudo da atenção e da curiosidade intelectual.
+
+## Da oralidade ao conhecimento científico
+
+O capítulo faz uma **reflexão crítica sobre as informações** que recebemos diariamente, destacando a importância de diferenciar o que é reevante do que é apenas modismo. A partir disso, analisa os diferentes **tipos de conhecimento** que moldam nossa forma de compreender e agir no mundo, com ênfase no papel da **ciência e da tecnologia**.
+
+### Produção do Conhecimento
+  Desde os primeiros hominídios, o sr humano produz conhecimento ao tentar compreender e transformar a natureza para facilitar sua vida. Esse processo foi se intensificando com o tempo, à medida que novas gerações constroem saberes sobre os legados das anteriores.
+
+### Cinco Tipos de Conhecimento
+* **Mito**: Explicações simbólicas da realidade baseadas na crença, emoção  tradição, ainda presentes na sociedade atual.
+* **Arte** : Interpretação subjetiva e sensível do mundo, expressa por diferentes linguagens (música, pintura, cinema etc.), que desperta sentimentos e reflete contextos culturais.
+* **Senso comum**: Conhecimento prático e cotidiano, transmitido informalmente. Pode ser tanto reflexivo quanto influenciado por ideologias que mascaram a realidade.
+* **Filosofia**: Conhecimento racional e crítico que busca compreender o mundo e questionar as aparências, os valores e o status quo.
+* **Ciência**: Conhecimento sistemático e baseado em métodos rigorosos. Busca compreender a realidade com base em evidências, mas é provisóriamente influenciada por interesses econômicos e sociais.
+
+### Relação entre Ciência, Tecnologia e Sociedade 
+
+A ciência e a tecnologia impactam profundamente a vida moderna. O capítulo mostra como o conhcimento científico gera novas tecnologias, que por sua vez, trasnformam hábitos, trabalho e modos de viver. Exemplo disso é a pandemia de Covid-19, que impulsionou inovações e mudanças sociais.
+
+* **Técnica**: Saber prático, geralmente empírico, aprendido com a experiência (como tocar um instrumento).
+* **Tecnologia**: Aplicação prática de conhecimento científico com o objetivo de facilitar tarefas humanas. Inclui não só equipamentos, mas também métodos e processos. 
+* **Ciência**: Base teórica que permite o suprimento de novas tecnologia.
+
+O texto ressalta que a tecnologia não é neutra: ela serve a interesses humanos e sociais, podendo beneficiar uns e prejudicar outros. Assim, o desenvolvimento tecnológico deve considerar suas implicações sociais, economicas e éticas.
+
+### Tecnologias sociais
+São aquelas voltadas para a solução de problemas sociais, como cisternas de baixo custo, inclusão digital ou programas de alienação. Muitas vezes não envolvem alta tencologia.
