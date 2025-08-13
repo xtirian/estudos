@@ -49,4 +49,50 @@ printf("%d\n", strlen(name);)
 
 ## String comparison
 
-The function `strncmp` compares between two strings, return the number 0 if they are eqyakm ir a different numbr if they are different. The arguments are the two strings to be compared
+The function `strncmp` compares between two strings, return the number 0 if they are eqyakm ir a different numbr if they are different. The arguments are the two strings to be compared, and the maximum comparison length. There is also an unsafe version of this function called `strcmp`, but is not recommended to use it.
+```c
+char * name = "Matheus";
+
+if (strncmp(name, "Matheus", 7) == 0) {
+  printf("Hello, Matheus!\n");
+} else {
+  printf("You are not John. Go away.\n");
+}
+```
+>You could not know the size of the string you are comparing in the `strncmp`, and the attribute size of the method is not optional. So, the recommendation is to use the strnlen before to calc the size of the strings.
+
+## String Concatenation
+The function `strncat` appends first `n` characters of src string to the destination string where `n` is `min(n,length(src))`; The arguments passed are destination string, source string, and n - maximun number of characters to be appended.
+
+```c
+char dest[20]="Hello";
+char src[20]="World";
+strncat(dest,src,3);
+printf("%s\n",dest);
+strncat(dest,src,20);
+printf("%s\n",dest);
+```
+
+## Exercise
+Define the string `first_name` with the value `John` using the pointer notation, and define the string `last_name` with the value `Doe` using the local array notation.
+
+```c
+#include <stdio.h>
+#include <string.h>
+int main() {
+  /* define first_name */
+  /* define last_name */
+  char name[100];
+
+  last_name[0] = 'B';
+  sprintf(name, "%s %s", first_name, last_name);
+  if (strncmp(name, "John Boe", 100) == 0) {
+      printf("Done!\n");
+  }
+  name[0]='\0';
+  strncat(name,first_name,4);
+  strncat(name,last_name,20);
+  printf("%s\n",name);
+  return 0;
+}
+```
