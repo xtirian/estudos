@@ -24,3 +24,29 @@ char name[17] = "Matheus Fernandes";
 
 The reason that we need to add one, although the string `Matheus Fernandes` is exactly 16 characters long, is for string termination: a special character which indicates the end of the string. The end of the string is marked because the program does not know the length of the string - only the compiler knows it according to the code.
 
+## String formatting with print
+
+We can use the `printf` command to format a string together with other strings, in the following manner:
+
+```c 
+char * name = "John Smith";
+int age = 27;
+
+/* prints out 'John Smith is 27 years old.' */
+printf("%s is %d years old.\n", name, age);
+```
+
+Notice that when printing strings, we must add a newline (`\n`) character so that our next `printf` statement will print in a new line.
+
+## String length
+
+The function `strlen` returns the length of the string which has to be passed as a argument:
+
+```c 
+char * name = "Nikhil";
+printf("%d\n", strlen(name);)
+```
+
+## String comparison
+
+The function `strncmp` compares between two strings, return the number 0 if they are eqyakm ir a different numbr if they are different. The arguments are the two strings to be compared
