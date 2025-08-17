@@ -103,3 +103,4 @@ O capítulo também aborda a inovação como um motor essencial para a competiti
 
 Por fim, o texto apresenta uma matriz de inovação que classifica as inovações em incrementais, semirradicais e radicais, destacando a importnância de cada tipo para a evolução dos negócios e a necessidade de um ambiente propício para a inovação que envolve colaboração entre diferentes setores e investimentos sibnificativos. A transformação da ciência em inovação é um processo complexo que requer tempo e recuros, mas é crucial para o avanço econômico e social.
 
+## Conectando Soluções: Sociedade, mercado e universidade
