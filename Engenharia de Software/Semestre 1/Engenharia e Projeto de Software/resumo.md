@@ -38,7 +38,7 @@ Diversos autores estruturam a disciplina. Ian Sommerville destacou que a ES envo
 
 Além destas camadas, Carvalho apresentou 12 princípios fundamentais da ES, como: formalidade, abstração, decomposição, generalizqação, flexibilidade, padronização, rastreabilidade, desenvolvimento iterativo, gerenciamento de requisitos, arquiteturas baseadas em componentes, modelagem visual e verificação contínua de qualidade. Esses princípios permitem lidar com a complexidade e garantir softwares mais confiáveis e fáceis de manter.
 
-Outro aspecto essencial é a **Metodologia de Desenvolvimento de Sistemas**, que padroniza atividades, melhora a comunicação entre equipes e garante maior produtividade e qualidade. Se uma metodologia, cada profissional aplica uas próprias soluções, resultando em desorganização e retrabalho. Entre os requisitos fundamentais estão: padronização, flexibilidade, documentação, modularização e planejamento.
+Outro aspecto essencial é a **Metodologia de Desenvolvimento de Sistemas**, que padroniza atividades, melhora a comunicação entre equipes e garante maior produtividade e qualidade. Sem uma metodologia, cada profissional aplica uas próprias soluções, resultando em desorganização e retrabalho. Entre os requisitos fundamentais estão: padronização, flexibilidade, documentação, modularização e planejamento.
 
 De acordo com o SWEBOK, a ES abrange várias áreas de conhecimento, como: design, construção, testes, manutenção, gerenciamento de configuração, processos, qualidade e requisitos. Cada área é responsável por etapas específicas, mas todas estão interligadas.
 
@@ -54,3 +54,27 @@ Essas fases ajudam a lidar com os riscos em diferentes momentos do projeto, torn
 Por fim, os **processos de Engenharia de Software** organizam as atividades e integram métodos, ferramentas e procedimentos, servindo como guias para alcançar qualidade e previsibilidade. Normas e modelos como **ISO 9001, ISO/IEC 12207, CMMI e MPS.Br** ajudam a garantir padrões de qualidade. Atualmente, ferramentas CASE e frameworks permitem automatizar e integrar várias etapas do desenvolvimento, tornando os processos ágeis e eficientes.
 
 Em resumo, a ES é uma disciplina que evoluiu para dar respostas à crise do software, trazendo princípios, metodologias e processos que aumentam a qualidade, reduzem falhas e tornam os projetos mais sustentáveis e competitivos.
+
+### Exercício
+
+1)"Engenharia de software pode ser definida como uma disciplina das engenharias que se ocupa na atividade de organizar e integrar métodos, ferramentas e procedimentos que servem para o propósito de alcançar qualidade e previsibilidade na construção de softwares. A Engenharia de Software existe pois o mundo da computação e do desenvolvimento de software passou por um período de "crise do software": Um período onde a demanda por softwares crescia cada vez mais, conforme o avanço da computação, mas a capacidade por entregar softwares não acompanhavam esta demanda. Isto causou, à época, a crise onde a construção dos softwares onde era comum não se cumprir os prazos de entrega, os custos para desenvolver software eram altos e quase não existia garantia de qualidade";
+2)C;
+3)"Os sistemas tornavam-se cada vez mais complexos, em contrapartida havia atrasos nas entregas, custos altos, dificuldades de manutenção e uma enorme quantidade de erros.";
+4)C;5)D;
+6) Formalidade: Criação de regras de desenvolvimento e os passos que devem ser seguidos a partir de documentos
+Abstração: A capacidade de abstração é a forma de imaginar o software como coisa não real, entendendo que a sua existência é uma expressão do pensamento transformado em código para alcançar um objetivo.
+Decomposição: Dividir o projeto em módulos, componentes, diminuindo a complexidade do seu desenvolvimento.
+Generalização: Criar soluções digitais genéricas, que possam ser reutilizadas.
+Flexibilidade: Um software deve ter a capacidade de ser alterado ou aceitar mudanças, atualizações, features e etc.
+Padronização: padronizar a forma como o software é construído para que não haja problemas na manutenção.
+Rastreabilidade: rastreabilidade das atividades por meio de sistemas como Trello para definir o que foi feito e o que está para ser feito.
+Desenvolvimento Iterativo: Toda a equipe é engajada na solução. Mesmo todos fazendo tarefas diferentes, todos estão caminhando para um único objetivo.
+Gerenciamento de requisitos: Deixar claro e documentado o que o sistema deve fazer.
+Arquiteturas baseadas em componentes: Dividir a solução em componentes bem definidos, funcionaius e lógicos, com interfaces bem definidas que não compartilham estados e se comunicam por troca de mensagens contendo dados.
+Modelagem visual: uso de ddiagramas como o DER para facilitar a visualização da solução.
+Verificação contínua da qualidade: criação de etapas e testes para garantir a cobertura do código e testes de qualidade, como testes unitários e testes de integração.
+7) A Metodologia de Desenvolvimento de Sistemas padroniza atividades, melhora a comunicação entre equipes e garante maior produtividade e qualidade. Sem uma metodologia, cda profissional aplica suas próprias soluções, resultano em desorganização e retrabalho. Seus principais fundamentos são: padronização, flexibilidade, documentação, modularização e planejamento.
+8) Sem uma metodologia de desenvolvimento de sistemas, cada profissional aplica suas próprias soluções, resultando em desorganização e retrabalho.
+9)C;
+10) design, construção, testes, manutenção, gerenciamento de configuração, gerenciamento de ES, processos, ferramentas e métodos, qualidade e requisitos.
+11) Transição; Elaboração; Construção; Iniciação: IV, I, III, II; Resposta: A;
