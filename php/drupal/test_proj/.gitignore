@@ -1,0 +1,36 @@
+
+# Composer dependencies
+/vendor/
+/web/core/
+/web/modules/contrib/
+/web/profiles/contrib/
+/web/themes/contrib/
+
+# Config e cache
+/web/sites/*/files/
+/web/sites/*/private/
+/web/sites/*/default/settings.php
+/web/sites/*/default/services.yml
+
+# Logs, backups e tmp
+*.log
+*.sql
+*.sqlite
+*.tar
+*.gz
+*.zip
+tmp/
+backup/
+
+# IDE / OS files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Drush (se estiver usando vendor/bin/drush)
+vendor/drush/drush/tmp/
+
+# Ignorar arquivos de configuração local do DDEV
+.ddev/.env
