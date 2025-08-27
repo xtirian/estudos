@@ -1,11 +1,14 @@
 # Produção do Conhecimento Científico e Tecnologias Emergentes
-## Aportes teóricos clássicos para compreender a aprendizagem:
+
+## Aportes teóricos clássicos para compreender a aprendizagem
+
 ### Behaviorismo
+
 Para **Skinner**, o humano é produto do processo de aprendizagem vivido ao longo de sua vida, ele assimila e responde ao que experienciou no decorrer da sua história. A aprendizagem seria então um tipo de resposta a algo que afeta a pessoa, seja positiva ou negativamente.
 
 Para **Piaget**, o ser humano vai desenvolvendo níveis cognitivos mais complexos com o passar do tempo. Para ele, todos os organismos vivos, inclusive o ser humano, buscam equilíbrio com o meio ambiente, mas este mesmo meio os desequilibra o tempo todo. Logo, a aprendizagem, segundo **Piaget**, é um constante processo de desequilibração e equilibração. Tudo tem início num conflito cognitivo, de onde gera a necessidade de compreender algo novo a partir deste desequilíbrio. O indivíduo lança mão de mecanismos internos, que se completam para alcançar o equilíbrio.
 
-[[Esquema do desenvolvimento cognitivo.canvas|Esquema do desenvolvimento cognitivo - Piaget]]
+[Esquema do desenvolvimento cognitivo.canvas|Esquema do desenvolvimento cognitivo - Piaget](../Extras/Esquema do desenvolvimento cognitivo.canvas)
 
 Para **Wallon**, o ser humano é resultado tanto de suas disposições internas quanto as influências do meio em que vive. Ou seja, a aprendizagem está relacionada a aspectos afetivos cgnitivos e motores que estão integrados. Aprender não é só uma ação intelectual, ela mobiliza o organismo como um todo. Para ele, a linguagem é essencial para o desenvolvimento e à aprendizagem.
 
@@ -14,15 +17,16 @@ Para **Wallon**, o ser humano é resultado tanto de suas disposições internas 
 Diferente de **Piaget**, para **Vigotsky** é a aprendizagem que impulsiona o desenvolvimento e não o contrário. O sujeito aprende na relação que estabelece com o mundo, e esta aprendizagm impulsiona o desenvolvimento das funções psicológicas superiore, passando também pela necessidade de alguma forma de mediação do "outro social", seja a partir da linguagem ou pela ação, sendo o aprendiz ativo neste processo.
 
 ### Aprendizagem no século XXI
+
 Vivemos em um mundo marcado por rápidas transformações tecnológicas, sociais e econômica, que exigem constante **aprendizagem e adaptação**. Ao contrário das gerações passadas, que lidavam com mudanças lentas e previsíveis, hoje enfrentamos incertezas constante, especialmente no mercado de trabalho.
 
 Nesse contexto, não basta ter uma **formação inicial**: é essencial desenvolver **competências múltiplas**, como pensamento crítico, criatividade, resiliência, adaptabilidade, agilidade e habilidades digitais. As empresas passaram a valorizar **competências (CHA - Conhecimentos, Habilidades e Atitudes)**, indo além da simples qualificação técnica.
 
-O conceito de **lifelong learning** (aprendizagem ao longo da vida) torna-se central. Aprender continumente, inclusive fora de ambientes formais, é necessário para manter-se relevante profissionalmente e como cidadão. 
+O conceito de **lifelong learning** (aprendizagem ao longo da vida) torna-se central. Aprender continumente, inclusive fora de ambientes formais, é necessário para manter-se relevante profissionalmente e como cidadão.
 
-A **neuroplasticidade** comprova que o cérebro adulto pode continuar aprendendo, mudando compoetamentos e atitudes. Assim, todos podem desenvolver novas habilidades ao longo da vida. 
+A **neuroplasticidade** comprova que o cérebro adulto pode continuar aprendendo, mudando compoetamentos e atitudes. Assim, todos podem desenvolver novas habilidades ao longo da vida.
 
-Por fim, destaca-se a diferença ente **informaçã** (dados brutos) e **conhecimento** (informação interpretada e aplicada com sentido). Para viver bem e manter-se empregável, é preciso transformar informações em conhecimento, por meio de leitura crítica, interpretação e pensamento analítico. 
+Por fim, destaca-se a diferença ente **informaçã** (dados brutos) e **conhecimento** (informação interpretada e aplicada com sentido). Para viver bem e manter-se empregável, é preciso transformar informações em conhecimento, por meio de leitura crítica, interpretação e pensamento analítico.
 
 ## Neuroplasticidade e estratégias para o desenvolvimento da alta performance cognitiva
 
@@ -46,9 +50,9 @@ Este capítulo apresenta um conjunto de estratégias que potencializam o aprendi
 
 Outra estratégia importante são as Marginálias, que envolvem fazer anotações e comentários nas margens dos textos pra estabelecer conexões com o conteúdo lido. Elas funcionam como um pequeno mapa mental e ajudam a organizar e internalizar a informação de forma pessoal e significativa. A utilização de **símbolos específicos** (como estrlas, setas, pontos de interrogação) pode indicar a relevância, gerar dúvidas, destacar citaçõies e incentivar a pesquisa futura, tornando o processo de leitura mais interativo e reflexivo.
 
-A estratégia de **Recordação ativa** reforça a importância de tirar os olhos do texto apíos a leitura e tentar relembrar os princais conceitos com suas próprias palavras. Isso estibula o cérebor a processar e consolidar a informação, promovendo um aprendizado mais duradouro. 
+A estratégia de **Recordação ativa** reforça a importância de tirar os olhos do texto apíos a leitura e tentar relembrar os princais conceitos com suas próprias palavras. Isso estibula o cérebor a processar e consolidar a informação, promovendo um aprendizado mais duradouro.
 
-O **Fichamento** é apresentado como técnica essencial para organizar o conhecimento adquirido por meio de resumos objetivos, contendo palavras-chave, definições e citações. Essa estratégia auxilia na memorização, no aprofundamento de conteúdo e na construção de um acervo pessoa de estudo. 
+O **Fichamento** é apresentado como técnica essencial para organizar o conhecimento adquirido por meio de resumos objetivos, contendo palavras-chave, definições e citações. Essa estratégia auxilia na memorização, no aprofundamento de conteúdo e na construção de um acervo pessoa de estudo.
 
 Ao final deste subcapítulo, o texto ressalta que a **superaprendizagem** depende da disposição para aprender e aprender. Tornar-se um superaprendiz significa buscar constantemente o aperfeiçoamento cognitivo, desenvolvendo habilidades mentais que favorecem o processamento e a retenção do conhecimento. A imagem final, que representa o crescimento dos dendritos, reforça visualmente o impacto real do aprendizado sobre o cérebro: cada nova informação fortalece e amplia as conexões neurais. A ideia central é que o cérebro está em constante transformação e pode se expandir com a prática deliberada do estudo da atenção e da curiosidade intelectual.
 
@@ -57,41 +61,46 @@ Ao final deste subcapítulo, o texto ressalta que a **superaprendizagem** depend
 O capítulo faz uma **reflexão crítica sobre as informações** que recebemos diariamente, destacando a importância de diferenciar o que é reevante do que é apenas modismo. A partir disso, analisa os diferentes **tipos de conhecimento** que moldam nossa forma de compreender e agir no mundo, com ênfase no papel da **ciência e da tecnologia**.
 
 ### Produção do Conhecimento
+
   Desde os primeiros hominídios, o sr humano produz conhecimento ao tentar compreender e transformar a natureza para facilitar sua vida. Esse processo foi se intensificando com o tempo, à medida que novas gerações constroem saberes sobre os legados das anteriores.
 
 ### Cinco Tipos de Conhecimento
+
 * **Mito**: Explicações simbólicas da realidade baseadas na crença, emoção  tradição, ainda presentes na sociedade atual.
 * **Arte** : Interpretação subjetiva e sensível do mundo, expressa por diferentes linguagens (música, pintura, cinema etc.), que desperta sentimentos e reflete contextos culturais.
 * **Senso comum**: Conhecimento prático e cotidiano, transmitido informalmente. Pode ser tanto reflexivo quanto influenciado por ideologias que mascaram a realidade.
 * **Filosofia**: Conhecimento racional e crítico que busca compreender o mundo e questionar as aparências, os valores e o status quo.
 * **Ciência**: Conhecimento sistemático e baseado em métodos rigorosos. Busca compreender a realidade com base em evidências, mas é provisóriamente influenciada por interesses econômicos e sociais.
 
-### Relação entre Ciência, Tecnologia e Sociedade 
+### Relação entre Ciência, Tecnologia e Sociedade
 
 A ciência e a tecnologia impactam profundamente a vida moderna. O capítulo mostra como o conhcimento científico gera novas tecnologias, que por sua vez, trasnformam hábitos, trabalho e modos de viver. Exemplo disso é a pandemia de Covid-19, que impulsionou inovações e mudanças sociais.
 
 * **Técnica**: Saber prático, geralmente empírico, aprendido com a experiência (como tocar um instrumento).
-* **Tecnologia**: Aplicação prática de conhecimento científico com o objetivo de facilitar tarefas humanas. Inclui não só equipamentos, mas também métodos e processos. 
+* **Tecnologia**: Aplicação prática de conhecimento científico com o objetivo de facilitar tarefas humanas. Inclui não só equipamentos, mas também métodos e processos.
 * **Ciência**: Base teórica que permite o suprimento de novas tecnologia.
 
 O texto ressalta que a tecnologia não é neutra: ela serve a interesses humanos e sociais, podendo beneficiar uns e prejudicar outros. Assim, o desenvolvimento tecnológico deve considerar suas implicações sociais, economicas e éticas.
 
 ### Tecnologias sociais
-São aquelas voltadas para a solução de problemas sociais, como cisternas de baixo custo, inclusão digital ou programas de alienação. Muitas vezes não envolvem alta tencologia.
 
+São aquelas voltadas para a solução de problemas sociais, como cisternas de baixo custo, inclusão digital ou programas de alienação. Muitas vezes não envolvem alta tencologia.
 
 ## Saindo da bolha: Como a ciência e a tecnologia nos afetam?
 
 ### Organização social e os rumos da ciência e da tecnologia
+
 A relação entre ciência, tecnologia e sociedade sempre foi moldada pela organização social de cada época. Na Antiguidade e na Idade Média, o conhecimento, muitas vezes baseado em filosofia e religião, era privilégio de elites e voltado mais para a compreensão abstrata do mundo do que para usos práticos. O trabalho manual e a aplicação técnica ficavam restritos às classes mais baixas, e a separação entre teoria e prática limitava o avanõ tecnológico. Com o Renascimento e, depois a idade Moderna, essa visão começou a mudar. O fortalecimento da burguesia e o surgimento do método científico - defendido por pensadores como Francis Bacon e Galileu Galilei - Abriram caminho para a ciência fosse aplicada à transformação da natureza e ao aumento da produção. Esse processo culminou na Primeira Revolução Industrial, no século XVIII, marcada pelo usop do carvão e da máquina à vapor, e prosseguiu com a Segunda, no Século XIX, que introduziu a eletrecidade, o aço e a produção em massa. No século XX, a terceira revolução Industrial trouxe a automação e a informática, e hoje vivemos uma quarta fase, guiada pela inteligência artificial, biotecnologia e internet das coisas. Cada uma dessas etapas acelerou mudanças econômicas e sociais, mas também produziu novas desigualdades e desafios.
 
 ### A quem serve o desenvolvimento da ciência e da tecnologia?
+
 No cenário contemporâneo, o desenvolvimento científico e tecnológico não ocorre de forma neutra. Em um sistema capitalista, ele tende a servir aos itneresses econômicos, definindo prioridade de pesquisa de acordo com o potencial de lucro e não necessariamente com as necessidades coletivas. Isso faz com que venefícios como medicamentos inovadores, tecnologias limpas ou acesso à informação cheguem primeiro e de forma mais ampla a países desenvolvidos, enquanto regiões periféricas enfgrentam exclusão digital e dependência tecnológica. Essa lógica também provoca desemprego estrutural - como no caso da substituição de mão de obra por máquinas e softwares - e reforça disparidades entre países centrais e periféricos, criando um cenário em que a ciência pode tanto resolver problemas urgentes quanto agravar desigualdades.
 
 ### Como ampliar o acesso aos benefícios gerados pela ciência e pela tecnologia?
+
 Para ampliar o acesso aos benefícios da ciência e da tencologia, é necessário adotar políticas de Estado que garantam investimento contínuo em pesquisa e inovação, mesmo em períodos de crise econômica. No Brasil, instituições como CNPq, FINEP e CAPES são fundamentais para financiar estudos e formar pesquisadores, mas precisam de recursos estáveis e de integração com universidades, centros de pesquisa e setor produtivo. Também é essencial incentivar projetos que priorizem demandas sociais, como saneamento básico, energias renov áveis e tecnopplogias assistivas, e promover a democratização do conhecimento por meio de educação científica e inclusão digital. Dessa forma, a ciência pode deixar de ser apenas um motor de lucro e se tornar um instrumento efetivo para reduzir a desigualdade, melhorar a qualidade de vida e  enfrentar problemas globais, como as mudanças climáticas e crises de saúde pública.
 
-## Produção Científica e Inovação 
+## Produção Científica e Inovação
 
 aborda os impactos do desenvolvimento científico-tecnológico no trabalho humano, destacando a capacidade única do ser humano de adaptar a natureza a suas necessidades, ao contrário dos animais que se adaptam a seus habitats. Essa habilidade é impulsionada pelo tamanho do cérebro humano, que permite operações mentais complexas  e a crianção de ferramentas e tecnologias que facilitam a sobrevivência e o conforto.
 
@@ -107,16 +116,16 @@ Por fim, o texto apresenta uma matriz de inovação que classifica as inovaçõe
 
 O **Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI)** é uma rede que articula governo, sociedade, universidades e empresas com o objetivo de promover a geração de conhecimento, o desenvolvimento tecnológico e a inovação. Esse sistema é formado por diferentes atores: os agentes políticosm que criam leis e políticas públicas; as agências de fomento, que distribuem recursos financeiros, como o CNPq, a CAPES, a FINEP e as Fundações de Amparo à Pesquisa (FAPs); e os operadores, incubadoras e parques tecnológicos. O maior desafio desse sistema é garantir o financiamento contínuo, que envolve tanto recursos públicos quanto privados.
 
-Para orientar as ações do setor, o governo elabora os **Planos Nacionais de Ciência, Tecnologia e Inovação**, que funcionam como verdadeiros projetos de pesquisa em escala nacional. Esses planos identificam problemas prioritários, como a desigualdade social, e estabelecem objetivos estratégicos, como o uso da ciência e da tecnologia para promover o desenvolvimento econômico e social do país. 
+Para orientar as ações do setor, o governo elabora os **Planos Nacionais de Ciência, Tecnologia e Inovação**, que funcionam como verdadeiros projetos de pesquisa em escala nacional. Esses planos identificam problemas prioritários, como a desigualdade social, e estabelecem objetivos estratégicos, como o uso da ciência e da tecnologia para promover o desenvolvimento econômico e social do país.
 
-Dentro desse ocntexto a **propriedade intelectual** tem papel fundamental, pois garante ao criador os direitos legais e econômicos sobre suas invenções ou obras. No Brasil, ela se divide em três grandes áreas: a propriedade industrial, que abrange patentes, marcas, desenhos industriais e indicações geográficas; o direito autoral, que protege livros, músicas e softwares; e a proteção sui generis, voltada a cultivares, topografias de circuitos integrados, conmhecimentos tradicionais e manifestações do folclore. Esse mecanismo possibilita que os inventores recebam *royalties* pelo uso de suas crianções.
+Dentro desse ocntexto a **propriedade intelectual** tem papel fundamental, pois garante ao criador os direitos legais e econômicos sobre suas invenções ou obras. No Brasil, ela se divide em três grandes áreas: a propriedade industrial, que abrange patentes, marcas, desenhos industriais e indicações geográficas; o direito autoral, que protege livros, músicas e softwares; e a proteção sui generis, voltada a cultivares, topografias de circuitos integrados, conmhecimentos tradicionais e manifestações do folclore. Esse mecanismo possibilita que os inventores recebam _royalties_ pelo uso de suas crianções.
 
-O registro da propriedade intelectual é feito no **Instituto Nacional da Propriedade Industrial (INPI)**, que assegura a proteção jurídica e garante a valorização da inovação no mercado. Regiustrar uma patente ou marca significa proteger oficialmente uma ideia, permitindo que ela seja explorada de forma mais segura e rentável. 
+O registro da propriedade intelectual é feito no **Instituto Nacional da Propriedade Industrial (INPI)**, que assegura a proteção jurídica e garante a valorização da inovação no mercado. Regiustrar uma patente ou marca significa proteger oficialmente uma ideia, permitindo que ela seja explorada de forma mais segura e rentável.
 
 Além disso, o SNCTI oferece diferentes caminhos para transformar os resultados da pesquisa em inoivação. Entre os principais mecanismo de apoio estão as bolsas e auxílios para pesquisadores, a subvenção econoôm,ica para empresas inovadoras, empréstimos e financiamentos, compras governamentasi que priorizam soluções nacionais, encomendas tecnológicas, incentivos fiscais e até investimentos de risco. Todos esses intrumentos visam aproximar a pesquisa científica das necessidades do mercado e da sociedade.
 
 Nesse processo, destacam-se também as **incubadoras e aceleradoras de empresas**. As incubadoras, geralmente ligadas a universidades ou governos, oferecem suporte técnico, infraestrutura e capacitação para empreendedores iniciantes transformarem suas ideias em negócios viáveis. Já as aceleradoras, normalmente privadas, proiporcionam, mentorias, redes de contato e investimentos, em troca de participação nbos lucros ou no capital das empresas apoiadas.
 
-Para ter acesso a uma incubadora, o empreendedor precisa apresentar um projeto inovador e passar por um processo seletivo, que pode incluir editais, análise de viabilidade e entrevistas. Uma vez aprovado, ele recebe apoio estruturado para desenvolver seu produto ou serviço, aumentando as chances de sucesso no mercado. 
+Para ter acesso a uma incubadora, o empreendedor precisa apresentar um projeto inovador e passar por um processo seletivo, que pode incluir editais, análise de viabilidade e entrevistas. Uma vez aprovado, ele recebe apoio estruturado para desenvolver seu produto ou serviço, aumentando as chances de sucesso no mercado.
 
 Assim, o capítulo mostra que o Brasil possui uma estrutura organizada para incentivar a ciência e a inovação, mas que o avanço depende da integração entre políticas públicas, financiamento, proteção da propriedade intelectual e apoio a empreendedores. As incubadoras e aceleradoras representam, portanto, uma ponte essencial entre a produção do conhecimento e a transformação desse conhecimento em soluções concretas para sociedade.
