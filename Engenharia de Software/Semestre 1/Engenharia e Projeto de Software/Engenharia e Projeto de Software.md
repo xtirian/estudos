@@ -78,3 +78,17 @@ Verificação contínua da qualidade: criação de etapas e testes para garantir
 9)C;
 10) design, construção, testes, manutenção, gerenciamento de configuração, gerenciamento de ES, processos, ferramentas e métodos, qualidade e requisitos.
 11) Transição; Elaboração; Construção; Iniciação: IV, I, III, II; Resposta: A;
+
+## Tópico III - Ciclo de vida do Sotware
+
+O ciclo de vida do software descreve todo o percurso que um sistema percorre desde a sua concepção até a manutenção, sendo essencial para que o produto final funcione corretamente e atenda às expectativas dos usuários. Ele começa com o planejamento e a iniciação, quando se define o escopo do projeto, os recursos necessários, as equipes envolvidas e os principais riscos. Essa fase é fundamental, porque fornece a base para todas as decisões posteriores e ajuda a evitar surpresas durante o desenvolvimento.
+
+Em seguida, ocorre a análise de requisitos, etapa em que se detalha o que o usuário espera do software. Nessa fase, identificam-se tato os requisitos funcionais, que descrevem o que o sistema deve fazer, quanto os requisitos não funcionais, que dizem respeito a desempenho, segurança e confiabilidade. O projeto ou design vem depois, transformando esses requisitos em uma arquitetura concreta, determinando como os módulos se relacionam, como os dados serão organizados e como o sistema funcionará de maneira lógica e eficiente.
+
+A implementação é a fase em que o software começa a ganhar forma, pois é quando se escreve o código dos módulos definidos anteriormente. Logo após, entram os testes, essenciais para garantir que o sistema funciona corretamente e que todos os requisitos foram atendidos, detectando erros e prevenindo problemas antes da entrega. Finalmente, ocorre a implantação, quando o software é disponibilizado para os usuários podendo incluir treinamento, documentação e suporte inicial, e depois a manutenção, que garante que o sistema continue funcionando bem, através de correções, melhorias e adapções às mudanças de necessidade e tecnologia.
+
+Para organizar estas fases, existem modelos de processo de software. O modelo **cascata**, ou linear, segue uma sequência rígida de etapas, sendo simples de gerencias, mas pouco flexível a mudanças. O **modelo incremental** entrega o software em partes, permitindo que versões parciais sejam usadas enquanto o desenvolvimento continua. Já o **modelo iterativo** inicia ocm uma versão funcional básica que vai sendo refinada progressivamente, facilitando ajustes e melhorias durante todo o desenvolvimento.
+
+Além desses, exitem modelos derivados, como a **prototipação**, qe cria protótipos rápidos para validade ideias com o usuário, e o **modelo espiral**, que combina evolução incremental com análise de riscos, ajudando a prevenir problemas antes que eles se tornem críticos. Modelos modernos, como os ágeis, focam em entregas rápidas, comunicação constante e adaptação contínua às mudanças, valorizando a colaboração entre equipe e cliente.
+
+Cada modelo possui suas vantagens e limitações e a escolha correta depende do tipo de projeto, da complexidade do software e da experiência da equipe. Entender o ciclo de vida e os diferentes modelos é essencial para construir softwares de qualidade, dentro do prazo e atendendo às reais necessidades dos usuários.
