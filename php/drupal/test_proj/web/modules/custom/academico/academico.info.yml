@@ -1,0 +1,6 @@
+name: 'Acadêmico'
+type: module
+description: 'Módulo customizado para o sistema acadêmico'
+core_version_requirement: ^10 || ^11
+package: Custom
+verson: 1.0

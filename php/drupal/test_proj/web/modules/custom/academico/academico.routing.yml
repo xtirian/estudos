@@ -1,0 +1,9 @@
+academico.disciplinas:
+  path: '/disciplinas'
+  defaults:
+    _controller: '\Drupal\academico\Controller\DisciplinasController::Lista'
+    _title: 'Disciplinas'
+  requirements:
+    _permission: 'access content'
+
+
