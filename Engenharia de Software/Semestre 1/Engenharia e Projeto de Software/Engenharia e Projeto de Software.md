@@ -88,9 +88,9 @@ Além desses, exitem modelos derivados, como a **prototipação**, qe cria prot�
 
 Cada modelo possui suas vantagens e limitações e a escolha correta depende do tipo de projeto, da complexidade do software e da experiência da equipe. Entender o ciclo de vida e os diferentes modelos é essencial para construir softwares de qualidade, dentro do prazo e atendendo às reais necessidades dos usuários.
 
-# Gerenciamento de Projetos de Software, estimativas e métricas de projetos de software e gerência de configuração de software
+# Unidade II - Gerenciamento de Projetos de Software, estimativas e métricas de projetos de software e gerência de configuração de software
 
-## Gerenciamento de projetos de software
+## Tópico I - Gerenciamento de projetos de software
 
 O gerenciamento de projetos de software é uma disciplina essencial para garantir que projetos sejam cnduzidos com sucesso, considerando o planejamento, a execução, o monitoramento e o controle de pessoas, processos e eventos. Projetos de software são temporários, com início e fim definidos e têm como objetivo produzir um produto, serviço ou resultado único. São progressivos, ou seja, à medida que avançam, novas técnicas, métodos e conhecimentos são incorporados, permitindo adaptação a mudanças e inovação. O instituto de Gerenciamento de projetos (PMI) é uma referência internacional na área, sendo responável por estabelecer boas práticas consolidadas no guia PMBOK, que define conceitos, processos e áreas de conhecimento essenciais à gestão de projetos.
 
@@ -188,7 +188,7 @@ Em resumo, o gerenciamento de projetos de software é uma atividade estratégica
   - Boa performance da equipe
   - Administração eficiente de recursos (tempo, pessoal, financeiro)
 
-## 8. Ferramentas de Gerenciamento
+#### 8. Ferramentas de Gerenciamento
 
 - MS Project → diagrama de rede, cronograma, relatórios, subprojetos
 - Gantt Project → gráfico de Gantt, PDF/HTML, integração com planilhas
@@ -205,7 +205,7 @@ Em resumo, o gerenciamento de projetos de software é uma atividade estratégica
 - Satisfação dos stakeholders
 - Papel central do gerente de projetos
 
-## Estimativas e Métricas em Projetos de Software
+## Tópico II - Estimativas e Métricas em Projetos de Software
 
 O gerenciamento de projetos de software envolve múltiplos aspectos, entre eles a definição precisa de estimativas e o uso de métricas confiáveis para orientar o planejamento, a execução e o controle. Estimar significa prever o esforço, o tempo, os recursos e os custos necessários para desenvolver um sistema, o que é fundamental para evitar atrasos, desperdícios e resultados aquém do esperado. O esforço, geralmente medido em pessoas-hora ou pessoas-mês, está diretamente ligado à produtividade da equipe e ao custo final do projeto, uma vez que o valor da mão de obra é calculado sobre essa base.
 
@@ -231,7 +231,7 @@ Por fim, um terceiro exemplo apresenta uma **estimativa baseada em análise de P
 
 As estimativas e métricas em projetos de software são mais do que ferramentas de cálculo: são instrumentos de gestão estratégica. Elas permitem alinhar expectativas, planejar recursos, antecipar riscos e controlar custos, transformando dados técnicos em informações de valor para tomada de decisão. Os métodos apresentados - LOC, PCU e APF - ilustram como diferentes perspectivas podem ser adotadas para medir e prever esforço e custo, cada uma com seus pontos fortes e limitações. O essencial é compreender que nenhuma técnica é universal; a escolha depende do tipo de projeto, do nível de maturidade da organização e da disponibilidade de dados históricos. Quando bem aplicadas, as estimativas aumental a confiabilidade das previsões e contribuem decisivamente paa o sucesso do projeto de software.
 
-## Gerência de configuração de Software
+## Tópico III - Gerência de configuração de Software
 
 A Gerência de Configuração de Software (GCS) é essencial para manter a organização, o controle e a qualidade durante o desenvolvimento de sistemas, uma vez que o software está em constante evolução e sofre alterações contínuas. Sem um processo de GCS, situações comuns como modificações imultâneas em um mesmo artefato por diferentes desenvolvedores podem gerar perda de trabalho, sobreposição de alterações ou falhas difíceis de rastrear. O papel da FCS é justamente registrar, ocntrolar e integrar essas mudanças de forma sistemática, evitando inconsistências e conflitos.
 
@@ -246,3 +246,5 @@ No campo prático, a GCS utiliza conceitos e terminologias próprias. O **baseli
 Para implementar esses processos, existem diversas ferramentas de apoio. No controle de versões, destacam-se Git, Mercurial e Subversion. Para ocntrole de mudanças, ferramentas como Trac, Redmine e JIRA são bastante utilizadas. Já na integração contínua, Jenkins, Maven e Ant são exemplos de soluções populares. Muitas dessas ferramentas são open source, o que facilita sua adoção por pequenas e médias empresas, embora ferramentas comerciais ofereçam funcionalidades mais completas.
 
 Em suma, a GCS é uma disciplina fundamental para o sucesso de projetos de desenvolvimento pois garante integridade, rastreabilidade e consistência, melhora a comunicação entre as equipes e reduz riscos de falhas ou retrabalho.
+
+# Unidade III - Gerenciamento de Qualidade de Software: Padrões, normas e modelos; Métodos ágeis; Verificação, validação e testes de software; Governança de tecnologia da informação
