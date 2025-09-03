@@ -92,3 +92,113 @@ Para organizar estas fases, existem modelos de processo de software. O modelo **
 Além desses, exitem modelos derivados, como a **prototipação**, qe cria protótipos rápidos para validade ideias com o usuário, e o **modelo espiral**, que combina evolução incremental com análise de riscos, ajudando a prevenir problemas antes que eles se tornem críticos. Modelos modernos, como os ágeis, focam em entregas rápidas, comunicação constante e adaptação contínua às mudanças, valorizando a colaboração entre equipe e cliente.
 
 Cada modelo possui suas vantagens e limitações e a escolha correta depende do tipo de projeto, da complexidade do software e da experiência da equipe. Entender o ciclo de vida e os diferentes modelos é essencial para construir softwares de qualidade, dentro do prazo e atendendo às reais necessidades dos usuários.
+
+
+# Gerenciamento de Projetos de Software, estimativas e métricas de projetos de software e gerência de configuração de software
+
+## Gerenciamento de projetos de software
+
+O gerenciamento de projetos de software é uma disciplina essencial para garantir que projetos sejam cnduzidos com sucesso, considerando o planejamento, a execução, o monitoramento e o controle de pessoas, processos e eventos. Projetos de software são temporários, com início e fim definidos e têm como objetivo produzir um produto, serviço ou resultado único. São progressivos, ou seja, à medida que avançam, novas técnicas, métodos e conhecimentos são incorporados, permitindo adaptação a mudanças e inovação. O instituto de Gerenciamento de projetos (PMI) é uma referência internacional na área, sendo responável por estabelecer boas práticas consolidadas no guia PMBOK, que define conceitos, processos e áreas de conhecimento essenciais à gestão de projetos.
+
+O gerenciamento de projetos envolve diversos desafios, incluindo atrasos nos prazos, estouro de orçamento, falhas na qualidade das entregas, desmotivação da equipe e ocorrência de eventos imprevistos. Para mitigar esses riscos, é necessários planejamento detalhado e monitoramento contínuo. O tripé do sucesso em projetos, segundo Ricardo Viana Vargas, envolve tempo, custo e escopo, ao qual deve ser adicionada a qualidade, garantindo que o produto entregue funcione corretamente e atende às expectativas do cliente. O plano de projeto é o documento central, definindo marcos, atividades principais e métodos de controle. A gestão eficaz de projetos de software se apoio nos quatro P's: **pessoas**, focando em comunicação e competência da equipe; **produto**, compreendendo as necessidades e a melhor solução; **processo**, que fornece metodologia e estrutura; **projeto**, que organiza, planeja e controla todas as etapas.
+
+A análise e gestão de riscos é fundamental para reduzir a incerteza. Este processo envolve quatro etapas: (1) **identificação de riscos**, reconhecendo prossíveis problemas de projeto ou negócios; (2) **análise de risco**, determinando a probabilidade de ocorrência e seu impacto;(3) **administração de risco**, definindo estratégias e planos de contingência; e (4) **monitoração de risco**, acompanhando a ocorrência e evolução dos riscos. Os riscos podem ser tratados por eliminação, mitigação, transferência ou aceitação, conforme a situação.
+
+O PMBOK identifica dez áreas do conhecimento essenciais, que englobam 47 processos: integração, escopo, tempo, custos, qualidade, recursos humanos, comunicações, riscos, aquisições e gerenciamento de stakeholders. A satisfação das pessoas envolvidas, especialmente stakeholders, é crucial, já que sua expectativa influencia diretamente o sucesso do projeto. Estruturas organizacionais podem ser funcional, projetizada ou matricial (fraca, balanceada ou forte), determinando como decisões e responsabilidades são distribuídas.
+
+Uma equipe típica de desenvolvimento de software inclui gerentede projetos, analista de negócios, analista de sistemas, projetista, programadores, analista de qualidade e DBA. Filho (2015) destaca três pilares da gestão: foco no cliente, bom funcionamento da equipe e administração eficiente dos recursos (tempo, pessoal e financeiros).
+
+O uso de ferramentas de gerenciamento de projetos é indispensável para organizar, controlar e disponibilizar informações de forma rápida e precisa. Entre as principais ferramentas estão:
+
+* **MS Project**, robusta, baseada em diagrama de rede e tabelas, com recursos para cronograma, relatórios e subprojetos;
+* **Gantt Project**, gratuito, de código aberto, baseado em gráfico de Gantt, com recursos de dependência de tarefas, relatórios e integração com planilhas;
+* **DotProject**, livre, web-based, com banco SQL, focada em agenda de tarefas, documentação e horas trabalhadas;
+* **Project Open**, web-based e de código aberto, com monitoramento de custos, cálculo de lucro e integração com outras ferramentas.
+
+Em resumo, o gerenciamento de projetos de software é uma atividade estratégica que combina planejamento, métodos, ferramentas e gestão de pessoas, garantindo que os projetos sejam concluídos dentro do prazo, orçamento e com a qualidade desejada. O sucesso depende de uma equipe bemk estruturada, da utilização adequada de ferramentas, da gestão de riscos e da atenção às expectativas de todos os envolvidos, com o gerente de projetos desempenhando papel central na condução e controle do trabalho.
+
+### Mapa Mental: Gerenciamento de Projetos de Software
+
+#### 1. Projetos de Software
+- Temporários → início e fim definidos
+- Produto, serviço ou resultado único
+- Progressivos → incorporam métodos e técnicas ao longo do projeto
+- Problemas comuns:
+  - Atrasos nos prazos
+  - Estouro de orçamento
+  - Falha na qualidade
+  - Desmotivação da equipe
+  - Eventos inesperados
+
+#### 2. PMI e PMBOK
+- PMI → referência internacional em gestão de projetos
+- PMBOK → guia de boas práticas
+- Áreas de conhecimento:
+  - Integração
+  - Escopo
+  - Tempo
+  - Custos
+  - Qualidade
+  - Recursos Humanos
+  - Comunicações
+  - Riscos
+  - Aquisições
+  - Envolvidos (Stakeholders)
+
+#### 3. Tripé do Sucesso
+- Tempo
+- Custo
+- Escopo
+- Qualidade
+
+#### 4. Gestão dos 4 Ps
+- Pessoas → comunicação, competência, motivação
+- Produto → atender necessidades, melhor solução
+- Processo → metodologia, plano, padrões
+- Projeto → planejamento, monitoramento, controle
+
+#### 5. Gestão de Riscos
+- Etapas:
+  - Identificação
+  - Análise → probabilidade e impacto
+  - Administração → estratégias e plano de contingência
+  - Monitoração → acompanhar ocorrência e evolução
+- Tratamento:
+  - Eliminação
+  - Mitigação
+  - Transferência
+  - Aceitação
+
+#### 6. Estruturas Organizacionais
+- Funcional → ordens do topo
+- Projetizada → gerente de projeto decide exclusivamente
+- Matricial → mistura, pode ser fraca, balanceada ou forte
+
+#### 7. Equipe de Desenvolvimento
+- Gerente de projetos
+- Analista de negócios
+- Analista de sistemas
+- Projetista
+- Programadores
+- Analista de qualidade
+- DBA
+- Pilares da gestão:
+  - Foco no cliente
+  - Boa performance da equipe
+  - Administração eficiente de recursos (tempo, pessoal, financeiro)
+
+## 8. Ferramentas de Gerenciamento
+- MS Project → diagrama de rede, cronograma, relatórios, subprojetos
+- Gantt Project → gráfico de Gantt, PDF/HTML, integração com planilhas
+- DotProject → web-based, banco SQL, agenda de tarefas, documentação, horas trabalhadas
+- Project Open → web-based, monitoramento de custos, cálculo de lucros, integração
+- Benefícios:
+  - Padronização de processos
+  - Informações em tempo real
+  - Aumento da produtividade
+
+#### 9. Sucesso em Projetos
+- Combinação de pessoas + planejamento + ferramentas
+- Satisfação dos stakeholders
+- Papel central do gerente de projetos
+
