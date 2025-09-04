@@ -248,3 +248,134 @@ Para implementar esses processos, existem diversas ferramentas de apoio. No cont
 Em suma, a GCS é uma disciplina fundamental para o sucesso de projetos de desenvolvimento pois garante integridade, rastreabilidade e consistência, melhora a comunicação entre as equipes e reduz riscos de falhas ou retrabalho.
 
 # Unidade III - Gerenciamento de Qualidade de Software: Padrões, normas e modelos; Métodos ágeis; Verificação, validação e testes de software; Governança de tecnologia da informação
+
+## Tópico I - Gerenciamento de qualidade de software: Padrões, normas e modelos
+
+A qualidade em software é um conceito relativo, ligado ao grau em que um produto atende aos requisitos do cliente, funciona sem defeitos, é eficiente, usável e confiável. Para Roger Pressman, qualidade significa conformidade com requisitos funcionais e de desempenho explicitamente declarados, além de padrões de desenvolvimento documentados. Joseph Juran complementa com sua trilogia da qualidade: planejamento (definição do que é qualidade), controle (garantia de que padrões sejam cumpridos) e melhoria (identificação e implementação de oportunidades).
+
+Um dos métodos centrais é o **Ciclo PDCA** (Plan, Do, Check, Action), que orienta a melhoria contínua: planejar ações, executar, verificar resultados e agir corretivamente. Outro marco é o \*\*Total Quality Management (TQM), que diferencia a era do software artesanal, sem padronização, da era profissional, marcada pela engenharia de software, documentação e foco em custo-benefício.
+
+Para garantir qualidade, um projeto deve ter processos formais e um plano de qualidade, onde são definidos padrões, métodos, métricas, treinamentos, inspeções, auditorias e ações corretivas. Dentro dessa estrutura, há duas áreas complementares:
+
+- **Garantia da Qualidade de Software (SQA)**: define padrões, metodologias e atividades preventivas.
+- **Controle da Qualidade de Software (SQC)**: foca em monitorar resultados e detectar defeitos por meio de revisões, testes e análises.
+
+O **custo da qualidade** é dividido em custos de prevenção, avaliação, falhas internas e falhas externas. Quanto mais se investe em prevenção, menores tendem a ser os custos de falhas. Além disso, a qualidade depende de quatro fatores: processo (planejamento adequado), tecnologia (ferramentas e métodos), recursos (tempo e dinheiro) e pessoas (competência da equipe, fator decisivo)
+
+Ao longo do tempo, diversas **normas internacionais** foram criadas:
+
+- **ISO/IEC 9000** - gestão da qualidade em projeto, desenvolvimento e serviços.
+- **ISO/IEC 12207** - processo do ciclo de vida do software.
+- **ISO/IEC 15504 (SPICE)** - avaliação e melhoria de processos.
+- **ISO/IEC 9123** - modelo de qualidade de produto (funcionalidade, confiabilidade, eficiência, usabilidade, manutenibilidade e portabilidade).
+- **ISO/IEC 27000** - Segurança da informação.
+- **ISO/IEC 15939** - Processos de medição.
+
+No Brasil, os modelos mais apliados são o CMMI e o MPS.BR.
+
+O CMMI (Capability Maturity Model Integration), criado pelo SEI em 1992, é um dos modelos mais reconhecidos mundialmente pla melhoria de processos. Ele integra disciplinas como engenhar de sistemas e software, buscando maior eficiência, retorno sobre investimento e redução de redundâncias. O CMMI estabelece cinco níveis de maturidade:
+
+1. Inicial: processo imprevisível e pouco controlável;
+2. Repetível: processos básicos de gerenciamento de projetos estabelecidos.
+3. Definido: processos documentados e padronizados em toda a organização.
+4. Gerenciado: processos medidos e controlados quantitativamente.
+5. Otimização: foco em inovação e melhoria contínua.
+
+Já o MPS.BR (Melhoria de Processos de Software Brasileiro), criado em 2003 pela Softex em parceria com instituições como COPPE/UFRJ e CESAR, for desenvolvido para pequenas e médias empresas nacionais com custos mais acessível e compatibilidade com padrões internacionais. Ele define dois modelos:
+
+- MR-MPS (Modelo de referência): Descreve processos e práticas.
+- MN-MPS (Modelo de negócio): descreve formas de implementação (individual ou cooperada entre empresas)
+
+O MPS.BR tem sete níveis de maturidade, de G (mais baixo) a A (mais alto).
+
+- G – Parcialmente Gerenciado: gestão inicial de requisitos e projetos.
+- F – Gerenciado: inclui medições, configuração, qualidade e aquisição.
+- E – Parcialmente Definido: processos organizacionais e treinamento.
+- D – Largamente Definido: validação, verificação e integração do produto.
+- C – Definido: gerência de riscos e análise de decisões.
+- B – Gerenciado Quantitativamente: desempenho organizacional e controle quantitativo.
+- A – Otimização: foco em inovação e análise de causas.
+
+### Comparação entre CMMI e MPS.BR
+
+Ambos possuem níveis de maturidade que representam a capacidade da organização. O CMMI tem cinco níveis, enquanto o MPS.BR possui sete, com implementação mais gradual e adequada a micro, pequenas e médias empresas.
+
+- O CMMI é internacional reconhecido, mas caro e voltado para empresas de grande porte.
+- O MPS.BR é mais acessível, voltado ao cenário brasileiro, e aceita implementação cooperada entre empresas.
+- Ambos apoioam licitações, mas apenas CMMI projeta competitividade internacional.
+
+## Tópico II - Métodos ágeis
+
+Na década de 1990, os métodos clássicos de desenvolvimento de software começaram a mostrar sérias limitações: longos prazos, inflexibilidade e baixa qualidade nos produtos entregues. Com a crescente demanda por softwares melhores e mais rápidos, a indústria reagiu com o surgimento das **metodologias leves**, que em 2001 passaram a ser conhecidas como **metodologias ágeis**, após a criação do **Manifesto Ágil**.
+
+Esse manifesto estabelece quatro valores centrais:
+
+1. Responder a mudanças mais que seguir planos rígidos;
+2. Colaborar com o cliente mais que negociar contratos.
+3. Indivíduos e interações mais que processos e ferramentas.
+4. Software em funcionamento mais que documentação extensa.
+
+Além disso, são definidos **12 princípios**, entre eles, entregas frequentes de software funcional, aceitação de mudanças mesmo em fases avançadas, foco em simplicidade, equipes auto-organizáeis, e constante reflexão para melhoria.
+
+As metodologias ágeis são recomendadas para projetos com alta taxa de mudança, equipes pequenas e prazos curtos, onde a recodificação não é cara e a entrega rápida é essencial. Em ambientes de alta criticidade, grandes equipes e requisitos estáveis, métodos clássicos como o modelo cascata ainda podem ser mais adequados.
+
+### Principais métodos ágeis
+
+1. Scrum
+   Criado nos anos 1990, por Jeff Sutherland, é hoje um dos métodos mais utilizados. Baseia-se em Sprints (ciclos de 2 a 4 semanas) e em reuniões rápidas e diárias (daily Scrum)
+   Papéis principais:
+
+- Scrum Master: faciloita o processo e remove impedimentos
+- Product Owner: representa o cliente, define prioridade do Product Backlog
+- Time de desenvolvimento: multidisciplinar e auto-organizado.
+
+As entregas são incrementadas e há constante adaptação às necessidades do cliente.
+
+2. Extreme Programming (XP)
+   Proposto por Kent Beck, valoriza testes automatizaos, simplicidade e forte envolvimento do cliente. Suas práticas incluem:
+
+- Proramação em pares;
+- Testes antes do Código;
+- Refatoração contínua
+- Integração frequentes
+
+Baseia-se em cinco princípios: comunicação, simplicidade, feedback, respeito e coragem.
+
+3. Adaptative Software Development (ASD)
+   Criado por Highsmith, é voltado para projetos grandes e complexos. Tem foco na colaboração humana e na auto-organização. Divide-se me três fases:
+
+- Especulação (planejamento da missão e requisitos básicos)
+- Colaboração (equipe motivada e integrada)
+- Aprendizado (feedback constante e ajustes)
+
+4. Dynamic System Development Method (DSDM)
+
+Baseado em RAD, enfatiza a participação intensa do usuário final e a entrega incremental de protótipos. Possui cinco fases: viabilidade, estudo do negócio, modelo funcional, projeto/construção e implementação.
+
+5. Crystal Clear
+
+Criado por Alistair Cockburn, valoriza pessoas e comunicação. É flexível, podendo ser adaptado a diferentes tamanhos de equipe (cores como Yellow, Orange e Red indicam o porte). Indicado para equipes pequenas (até 8 membros) em um mesmo local.
+
+6. Feature-Driven Development (FDD)
+
+Foca em funcionalidades como unidade de trabalho. Passos principais: criar modelo do domínio, listar funcionalidades, planejar e detalhar por funcionalidade, construir e testar incrementalmente. Envolve papéis bem definidos (Gerente de Projeto, Arquiteto, Especialista de Domínio, etc.).
+
+## Tópico 3 - Verificação, validação e testes de software
+
+O processo de desenvolvimento de software, mesmo quando bem planejado, está sujeito a falhas devido à complexidade das atividades envolvidas, ao fator humano e à dificuldade de traduzir corretamente as necessidades do cliente em requisitos técnicos. Nesse contexto, a verificação, a validação e os testes de software assumem papel essencial no gerenciamento da qualidade, funcinando ocmo mecanismos que asseguram que o produto final não apenas funcione, mas atenda de fato às expectativas e requisitos para os quai foi concebido.
+
+A verificação, a validação e o teste são três processos distintos, mas complementares. A verificação busca confirmar se o software foi construído corretamente segundo o planejamento, garantindo que cada etapa do desenvolvimento esteja de acordo com os padrões, normals e especificação técnicas estabelecidas. A avaliação,por sua vez, é o processo que verifica se o software produzido é o correto, ou seja, se atende às necessidades reais do cliente às condições de uso esperadas. Já os testes consistem na execução prática do sistema, com entradas e saídas controladas, para revelar a presença de falhas e defeitos. Essa tríade é resumida nas perguntas clássicas: "Estmos construindo o produto certo?" (validação), "Estamos construindo o produto da forma certa?" (Verificação) e o "O produto funciona corretamente?" (teste).
+
+Um aspecto fundamental do processo é a distinção entre defeito, erro e falha. O defeito é o engano cometido durante o desenvolvimento, como um comando incorreto ou uma especificação mal interpretada. O erro é a consequência concreta desse defeito, percebida na discrepância entre o resultado obtido e o esperado durante a execução. Já a falha é a manifestação do problema percebida pelo usuário, quando o software apresenta comportamento incorreto. O custo de correção cresce exponencialmente quanto mais tarde o problema é detectado, reforçando a importância de práticas de verificação e testes desde as fases iniciais do ciclo de vida do software.
+
+Os testes de software podem ser classificados de acordo com a abordagem utilizada e com o nível em que são aplicados. Quanto à abordagem, destcam-se os testes de caixa preta e de caixa brnca. No primeiro, avalia-se o sistema sem conhecimento do código-fonte, examinando entradas e saídas para verificar se a funcionalidade corresponde ao esperado. Já no segundo, há análise detalhada da lógica e das estruturas internas, exigindo acesso ao código para validar fluxos de decisão, laços e caminho lógicos. Em relação aos níveis, existem quatro principais: o teste de unidade, que verifica componentes isolados, normalmente automatizado e realizado pelo próprio desenvolvedor; o teste de integração, que assegura o correto funcionamento das interfaces entre módulos. oi teste de sistema, que avalia o software como umtodo sob a perspectiva do usuário final, incluindo desempenho, usabilidade, segurança e comportameno sob carga; e o teste de aceitação, realizado em conjunto com o cliente, que confirma se o sistema atende aos requisitos originais.
+
+Um modelo de referência amplamente utilizado para origentar a cobertuda de testes é o FURPS, que organiza os atributos de qualidade em cinco dimensões: funcionalidade, usabilidade, confiabilidade, desempenho e suportabilidade. Cada dimensão é associada a diferentes tipso de teste como os funcionais, de segurança, de carga, de estresse, de configuração e de instalação. Essa categorização permite estruturar uma estratégia de testes mais abrangente, indo além da simples validação funcional para contemplar aspectos de uso, manutenção e operação de software.
+
+A indústria também incorporou diferentes práticas de desenvolvimento orientadas a testes, que se alinahm às metodologias ágeis. O TDD estabeleque os testes devem ser escritos antes do código, guiado a implementação em ciclos curtos de escrita de teste, codificação e refatoração. O BDD (Behavior-driven development) expande esse conceito, enfatizando a descrição de comportamentos esperados em linguagem proxima da natual, servindo simultaneamente como documentação e creitério de validação. Já o ATDD (Acceptance Test-Driven Development) envolve diretamente o cliente na definição dos testes de aceitação, garantindo alinhamento com os requisitos de negócio. O FDD (Feature-Driven Development), por sua vez, estrutura o desenvolvimento em torno da entrega incremental de funcionalidades, o que facilita a aplicação d testes contínuos a cada entrega.
+
+O suporte a esses processos é ampliado pelo uso de ferramentas de automação. Existem sistemas voltados para rastreamente e gestão de defeitos como o Bugzilla eo ClearQuest, bem como ferramentas que automatizam testes funcionais, de desempenho. A automação permite maior repetibilidade, abrangência e rapidez na execução dos testes reduzindo custos e aumentando a confiabilidad dos resultados.
+
+Entretando, testes não são apenas questão de ferramentas. A equipe responsável desempenha papel central no processo de qualidade. Ela deve ser composta por profissionais de tecnologia e especialidade do domínio de negócio, pois a visão do usuário é indispensável para identificar cenários reais de uso que muitas vezes não aparecem em requisitos formais. Além disso, testadores precisam ter perfil analítico, senso crítico e independência em relação ao desenvolvimento. Essa combinação de competências técnicas e de negócio é rara e valorizada no mercado, o que torna os profissionais de teste altamente requisitados.
+
+Portanto, a verificação, a validação e os testes de software não devem ser vistos como etapas isoladas, mas como processo contínuos e integrados ao desenvolvimento. A aplicação sistemática dessas práticas assegura que o software entregue seja não apenas tecnicamente correto, mas também útil, confiável e alinhado às necessidades do cliente. Em um cenário em que o software permeia praticamente todas as áreas da vida moderna, a qualidade e a confiabilidade tornam-se fatores decisivos para o sucesso de qualquer produto ou organização.
